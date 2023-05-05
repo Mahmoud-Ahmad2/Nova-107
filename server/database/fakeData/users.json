@@ -1,0 +1,152 @@
+{
+    "user": [
+        {
+            "_id": "627c92140d0c3622573195ca",
+            "name": "Jane Doe",
+            "email": "jane@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm a web developer with passion for building web applications. And I'm looking for a job as a web developer. Technology is my passion. I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "JUNIOR",
+            "role": "interviewee",
+            "is_verified": true
+        },
+        
+        {
+            "_id": "627c92140d0c3622573195cb",
+            "name": "Amran masri",
+            "email": "Amran@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm an expert in web development. my passion is to help people to build their own websites.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/88728652?v=4",
+            "level": "EXPERT",
+            "role": "interviewer",
+            "is_verified": true
+
+        },
+        {
+            "_id": "627d24eddadaa9c447ebc642",
+            "name": "Admin Doe",
+            "email": "admin@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "",
+            "cv": "",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "EXPERT",
+            "role": "admin",
+            "is_verified": true
+
+        },
+        {
+            "_id": "627c92140d0c3622573195cd",
+            "name": "Larry Doe",
+            "email": "larry@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "role": "interviewee",
+            "is_verified": false
+
+        },
+        {
+            "_id": "a27c92140d0c3622573195ce",
+            "name": "Abed sharif",
+            "email": "abed@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/76119348?v=4",
+            "level": "EXPERT",
+            "role": "interviewer",
+            "is_verified": true
+        },
+        {
+            "_id": "627c92140d0c3622573195cf",
+            "name": "abed test",
+            "email": "abed2@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/76119348?v=4",
+            "level": "INTERNSHIP",
+            "role": "interviewee",
+            "is_verified": true
+            
+        },
+        {
+            "_id": "b27c92140d0c3622573195ce",
+            "name": "Tareq abo aqlen",
+            "email": "Tareq@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/105743433?v=4",
+            "level": "EXPERT",
+            "role": "interviewer",
+            "is_verified": true
+            
+        },
+        {
+            "_id": "627c92140d0c3622573195ce",
+            "name": "Mahmoud Alhato",
+            "email": "hato@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm a web developer, Interviewer and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/80840350?v=4",
+            "level": "SENIOR",
+            "role": "interviewer",
+            "is_verified": true
+
+        },
+        {
+            "_id": "627c92140d0c3622573195af",
+            "name": "Muhammed Ali",
+            "email": "ali@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm Muhammed Ali, I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "INTERNSHIP",
+            "role": "interviewee",
+            "is_verified": true
+
+        },
+        {
+            "_id": "627c92140d0c3622573195ad",
+            "name": "steve jobs",
+            "email": "steve@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm steve jobs, I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "SENIOR",
+            "role": "interviewer",
+            "is_verified": false
+        },
+        {
+            "_id": "c27c92140d0c3622573195ce",
+            "name": "Bill Gates",
+            "email": "Bill@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm Bill Gates, I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "INTERNSHIP",
+            "role": "interviewer",
+            "is_verified": false
+        },
+        {
+            "_id": "d27c92140d0c3622573195ce",
+            "name": "fawzi Gates",
+            "email": "fawzi@gmail.com",
+            "password": "$2a$10$nvvUrAyT6yyQp91soU..e.1.sESNfgeWsRpRecOrWKZX2NBHnNhJW",
+            "bio": "I'm Fawzi Gates, I'm a web developer, I love to learn new things and I'm always looking for new ways to improve myself.",
+            "cv": "link to cv",
+            "profile_picture": "https://avatars.githubusercontent.com/u/62077627?v=4",
+            "level": "INTERNSHIP",
+            "role": "interviewer",
+            "is_verified": true
+        }
+    ]
+}

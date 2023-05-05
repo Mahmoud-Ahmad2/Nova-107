@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.section-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2% 0;
+}
+
+.ant-typography.section-intro__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 5px;
+    color: #070558;
+    margin-top: 2% !important;
+}
+.ant-typography.section-intro__action {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #432773;
+}
+.ant-typography.section-intro__description{
+    margin-top: 1% !important;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #656464;
+    width: 48%;
+    min-width: 27%;                                                             
+}

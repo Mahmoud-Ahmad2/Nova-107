@@ -1,0 +1,300 @@
+{
+    "interviewer":[
+        {
+            "userId": "627c92140d0c3622573195cb",
+            "languages": [
+                "JAVASCRIPT",
+                "PHP"
+            ],
+            "specialization": "BACKEND",
+            "status": "APPROVED",
+            "interviews": [
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-04-28",
+                    "time": 13,
+                    "language": "JAVASCRIPT",
+                    "specialization": "BACKEND",
+                    "is_cancelled": false,
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e7a7c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-08-28",
+                    "time": 13,
+                    "language": "JAVASCRIPT",
+                    "specialization": "BACKEND",
+                    "is_cancelled": false,
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e8a8c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-08-28",
+                    "time": 15,
+                    "language": "PHP",
+                    "specialization": "BACKEND",
+                    "is_cancelled": false,
+                    "questionCategory":"Technical",
+                    "_id": "527d1d11f5243856362e8a8c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                    
+
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195cf",
+                    "date": "2024-08-28",
+                    "time": 14,
+                    "language": "JAVASCRIPT",
+                    "specialization": "BACKEND",
+                    "is_cancelled": false,
+                    "questionCategory":"Technical",
+                    "_id":"627c92140d0c3622573195cf",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195af",
+                    "date": "2024-08-28",
+                    "time": 16,
+                    "language": "JAVASCRIPT",
+                    "specialization": "BACKEND",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243855462e8a8c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195af",
+                    "date": "2024-08-29",
+                    "time": 16,
+                    "language": "PHP",
+                    "specialization": "BACKEND",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e8a4c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+
+                }
+            ],
+            "schedule": [
+                {
+                    "date": "2024-08-28",
+                    "time": [
+                       13, 14, 15, 16, 17, 18
+                    ]
+                },
+                {
+                    "date": "2024-08-29",
+                    "time": [
+                        13, 14, 15, 16, 17, 18
+                    ]
+                }
+            ]
+        },
+        {
+            "userId": "627c92140d0c3622573195ce",
+            "languages": [
+                "PYTHON","RUBY"
+            ],
+            "specialization": "BACKEND",
+            "status": "APPROVED",
+            "interviews": [
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-07-28",
+                    "time": 13,
+                    "language": "PYTHON",
+                    "specialization": "BACKEND",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e8a7d",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-07-29",
+                    "time": 13,
+                    "language": "RUBY",
+                    "specialization": "BACKEND",
+                    "questionCategory":"Technical",
+                "_id": "627d1d11f5243856362e8a7c",
+                "meeting": {
+                    "meetingId": "88456369303",
+                    "password": "YuD4cK",
+                    "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                }
+
+                }
+            ],
+            "schedule": [
+                {
+                    "date": "2024-07-28",
+                    "time": [
+                       13, 14, 15, 16, 17, 18
+                    ]
+                },
+                {
+                    "date": "2024-07-29",
+                    "time": [
+                        13, 14, 15, 16, 17, 18
+                    ]
+                }
+            ]
+        },
+        {
+            "userId": "a27c92140d0c3622573195ce",
+            "languages": [
+                "JAVASCRIPT",
+                "PYTHON"
+            ],
+            "specialization": "FRONTEND",
+            "status": "APPROVED",
+            "interviews": [
+                {
+                    "intervieweeId": "627c92140d0c3622573195af",
+                    "date": "2024-06-28",
+                    "time": 13,
+                    "language": "JAVASCRIPT",
+                    "specialization": "FRONTEND",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e8a4f",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195af",
+                    "date": "2024-06-29",
+                    "time": 13,
+                    "language": "PYTHON",
+                    "specialization": "FRONTEND",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856362e8a4e",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                }
+            ],
+            "schedule": [
+                {
+                    "date": "2024-06-28",
+                    "time": [
+                       13, 14, 15, 16, 17, 18
+                    ]
+                },
+                {
+                    "date": "2024-06-29",
+                    "time": [
+                        13, 14, 15, 16, 17, 18
+                    ]
+                }
+            ]
+        },
+        {
+            "userId": "b27c92140d0c3622573195ce",
+            "languages": [
+                "JAVA",
+                "GO"
+            ],
+            "specialization": "FULL STACK",
+            "status": "APPROVED",
+            "interviews": [
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-06-18",
+                    "time": 13,
+                    "language": "JAVA",
+                    "specialization": "FULL STACK",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856363e8a8c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                },
+                {
+                    "intervieweeId": "627c92140d0c3622573195ca",
+                    "date": "2024-06-19",
+                    "time": 13,
+                    "language": "GO",
+                    "specialization": "FULL STACK",
+                    "questionCategory":"Technical",
+                    "_id": "627d1d11f5243856363e8a7c",
+                    "meeting": {
+                        "meetingId": "88456369303",
+                        "password": "YuD4cK",
+                        "join_url":"https://us05web.zoom.us/j/88456369303?pwd=c0xwcWJRTU9iVmphcFlvNENNWFJpZz09?role=1"
+                    }
+
+                }
+            ],
+            "schedule": [
+                {
+                    "date": "2024-06-18",
+                    "time": [
+                       13, 14, 15, 16, 17, 18
+                    ]
+                },
+                {
+                    "date": "2024-06-19",
+                    "time": [
+                        13, 14, 15, 16, 17, 18
+                    ]
+                }
+            ]
+        },
+        {
+            "userId": "627c92140d0c3622573195ad",
+            "languages": [
+                "JAVA",
+                "PHP"
+            ],
+            "specialization": "BACKEND",
+            "interviews": [
+            ],
+            "schedule": [
+            ]
+        }
+    ]
+}
