@@ -5,7 +5,6 @@ import {
 } from 'antd';
 import PropTypes from 'prop-types';
 import logo from '../../../assets/images/logo.png';
-// eslint-disable-next-line import/no-cycle
 import SignupForm from './Form';
 import '../style.css';
 
