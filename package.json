@@ -8,7 +8,7 @@
     "start": "npx tsc && node ./dist",
     "dev": "NODE_ENV=development nodemon ./server/index.ts",
     "test": "jest",
-    "heroku-postbuild": "cd client && npm install && npm run build && cd .. && npm i --force",
+    "heroku-postbuild": "cd client && npm install --force && npm run build && cd .. && npm i --force",
     "build:db": "NODE_ENV=development npx ts-node ./server/database/build.ts"
   },
   "dependencies": {
